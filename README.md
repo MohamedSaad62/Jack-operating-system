@@ -11,3 +11,4 @@ Sys class is the manager and the point from which everything start it initiate a
 when compiling .jack files put those files with them.<br>
 the VMemulator instead of using the built-in operating system it will use this written operating system.<br>
 You can download VMemulator by downloading nand to tetris software suite from nand2tetris.org . <br>
+To know how to compile jack program read README file in https://github.com/MohamedSaad62/Jack-compiler. <br>
