@@ -1,6 +1,6 @@
 This project is a part from How to build a modern computer from nand to tetris part 2 course. <br>
 It's not like full industrial operating systems but it gives a lot of good services. <br>
-Math class provide multiplication, division, abs, max, min, and square root operation. <br>
+Math class provide multiplication, division, abs, max, min, and square root operations. <br>
 Memory class alloc space in the heap for objects and arrays and dealloc them it can also read values at any address and also write at any address in the heap or the screen. <br>
 Screen class gives graphics services drawing pixel, line, circle, rectangle. <br>
 Output class do textual output. <br>
